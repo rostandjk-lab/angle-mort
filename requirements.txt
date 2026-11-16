@@ -1,0 +1,5 @@
+google-genai
+feedparser
+playwright
+requests
+python-dotenv

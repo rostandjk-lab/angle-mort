@@ -82,5 +82,12 @@
     "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
     "type": "opportunite",
     "post": "Claude d'Anthropic valide et corrige maintenant les pull requests en solo. Pendant que les devs californiens chialent pour leurs jobs de relecteurs, la mif a un boulevard. Automatisez vos revues de code dès ce soir et passez 100% de votre temps à bâtir des produits utiles ici."
+  },
+  {
+    "date": "2026-11-25T00:32+00:00",
+    "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+    "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+    "type": "menace",
+    "post": "Des agents IA de hackers détectent et exploitent des failles 0-day en solo sans aide humaine. Pendant que la mif dort, des bots autonomes usinent 24h/24 pour pilonner nos serveurs. Vous attendez quoi pour réagir ? Blindez vos API et vos accès serveurs dès ce week-end."
   }
 ]

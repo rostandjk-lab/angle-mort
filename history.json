@@ -89,5 +89,12 @@
     "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
     "type": "menace",
     "post": "Des agents IA de hackers détectent et exploitent des failles 0-day en solo sans aide humaine. Pendant que la mif dort, des bots autonomes usinent 24h/24 pour pilonner nos serveurs. Vous attendez quoi pour réagir ? Blindez vos API et vos accès serveurs dès ce week-end."
+  },
+  {
+    "date": "2026-11-27T00:30+00:00",
+    "link": "https://techcabal.com/2026/11/25/amini-africa-paper-archives-data-ai/",
+    "title": "Amini wants to turn Africa’s paper archives into data for AI",
+    "type": "opportunite",
+    "post": "Amini sort Soma-1X Lite, un modèle IA open-weight pour transformer les archives papier d'Afrique en data. Pendant qu'on bave sur des chatbots US bidon, nos administrations croulent sous des montagnes de papier. Récupérez le repo ce week-end et allez numériser vos mairies."
   }
 ]
